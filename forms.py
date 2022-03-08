@@ -1,0 +1,2 @@
+class forms():
+	user=candidates
